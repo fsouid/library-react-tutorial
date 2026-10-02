@@ -1,5 +1,4 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React, { useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import Rating from "../componenets/UI/Rating";
 import Price from "../componenets/UI/Price";
